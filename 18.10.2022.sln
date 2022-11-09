@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.10.2022", "18.10.2022\18.10.2022.csproj", "{BF90157C-BB0A-4646-98DD-90479223F254}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switch-case", "switch-case\switch-case.csproj", "{2CB2007D-6FD2-42B8-9146-37DD633FE4BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dongu", "dongu\dongu.csproj", "{E29AFC12-E8A4-48BE-A775-9A8DB8F4F96C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF90157C-BB0A-4646-98DD-90479223F254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF90157C-BB0A-4646-98DD-90479223F254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF90157C-BB0A-4646-98DD-90479223F254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF90157C-BB0A-4646-98DD-90479223F254}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CB2007D-6FD2-42B8-9146-37DD633FE4BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CB2007D-6FD2-42B8-9146-37DD633FE4BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CB2007D-6FD2-42B8-9146-37DD633FE4BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CB2007D-6FD2-42B8-9146-37DD633FE4BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E29AFC12-E8A4-48BE-A775-9A8DB8F4F96C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E29AFC12-E8A4-48BE-A775-9A8DB8F4F96C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E29AFC12-E8A4-48BE-A775-9A8DB8F4F96C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E29AFC12-E8A4-48BE-A775-9A8DB8F4F96C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E55E50D2-5367-49B5-BED4-6976F255CB62}
+	EndGlobalSection
+EndGlobal
